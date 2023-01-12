@@ -1,1 +1,1 @@
-# waves-smart-contracts.github.io
+# waves-smart-contracts
